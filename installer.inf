@@ -1,0 +1,52 @@
+; Doro Cursor Set
+; Author: Doro (by ibitsu on Twitter X)
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEMENAME%",0x00000000,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+[Scheme.Cur]
+doro_1.ani
+doro_2.ani
+doro_3.ani
+doro_4.ani
+doro_5.ani
+doro_6.ani
+doro_7.ani
+doro_8.ani
+doro_9.ani
+doro_10.ani
+doro_11.ani
+doro_12.ani
+doro_13.ani
+doro_14.ani
+doro_15.ani
+
+[Strings]
+CUR_DIR       = "Cursors\Doro"
+SCHEMENAME    = "Doro Cursor (by ibitsu)"
+pointer       = "doro_1.ani"
+help          = "doro_2.ani"
+work          = "doro_3.ani"
+busy          = "doro_4.ani"
+cross         = "doro_5.ani"
+text          = "doro_6.ani"
+hand          = "doro_7.ani"
+unavailable   = "doro_8.ani"
+vert          = "doro_9.ani"
+horz          = "doro_10.ani"
+dgn1          = "doro_11.ani"
+dgn2          = "doro_12.ani"
+move          = "doro_13.ani"
+alternate     = "doro_14.ani"
+link          = "doro_15.ani"
