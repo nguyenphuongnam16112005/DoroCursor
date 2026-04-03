@@ -1,4 +1,5 @@
-How to install custom mouse cursors.
+How to install Doro custom mouse cursors.
+Author Doro custom cursors: ibitsut on Twitter X
 
 1. Open .zip file with WinRAR or 7Zip.
 2. Move folder with files on desktop or wherever you want.
