@@ -10,4 +10,4 @@ Author Doro custom cursors: ibitsu on Twitter X
 
 ===========================================================================================
 
-If it doesn't work, go on Mouse Propriets.
+If it doesn't work, go on Mouse Properties.
